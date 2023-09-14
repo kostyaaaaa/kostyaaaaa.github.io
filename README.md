@@ -32,7 +32,7 @@ Implement a new page with various features like search, filtering, grids, tables
 Worked with several APIs including Wistia
 Refactoring several parts and transferring logic into separate components (and vice versa combining logic into one component) for better readability
 
-Tech-stack: React, Context, React-query, Tailwind, Typescript
+Technologies: React, Context, React-query, Tailwind, Typescript
 
 <!---
 kostyaaaaa/kostyaaaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
